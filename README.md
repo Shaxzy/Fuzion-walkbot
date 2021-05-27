@@ -1,4 +1,4 @@
-## Fuzion with an walkbot added [WIP]
+## Fuzion with walkbot [WIP]
 
 Credits:
 * https://github.com/LWSS/Fuzion
